@@ -6,7 +6,7 @@ int main()
 {
 
     // ЗАДАНИЕ 1
-    cout << "Hello, world!" << endl;
+    
     int n, mx, ind, sum;
     ind = 0;
     mx = -9999999;
